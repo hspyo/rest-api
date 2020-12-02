@@ -1,6 +1,6 @@
 # REST API 예제
 
-REST API 적용 연습입니다. 이론 -> https://hsp0418.tistory.com/12
+REST API 적용 연습입니다. 이론 -> https://hsp0418.tistory.com/121?category=425157
 
 1. node.js 를 설치합니다.
 1. npm i -g json-server 
